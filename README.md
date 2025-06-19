@@ -17,7 +17,7 @@ En découvrant les outils de **data science**, de **statistique** et de **machin
 ---
 
 ### Me contacter
-📧 flaviodantas.contact [at] gmail.com  
+📧 flaviodsena@gmail.com  
 🔗 [LinkedIn – flavio-sena-86044a222](https://www.linkedin.com/in/flavio-sena-86044a222/)
 
 ---
