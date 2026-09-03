@@ -10,7 +10,7 @@ Mon parcours initial en mécanique m'a apporté une solide base scientifique et 
 
 J’ai eu ma première expérience professionnelle dans le domaine de la recherche au sein d’un projet mené conjointement par deux laboratoires : le LIRIS, avec l’équipe SyCoSMA, et le laboratoire ERIC, avec l’équipe DMD - Data Mining & Decision.
 
-Le projet portait sur les agents autonomes et les systèmes multi-agents génératifs. La problématique principale était d’étudier si des agents propulsés par des Large Language Models (LLM) pouvaient reproduire certains comportements observés chez des joueurs humains dans des situations stratégiques issues de la théorie des jeux.
+Le projet portait sur les agents autonomes et les systèmes multi-agents génératifs. La problématique principale était d’étudier si des agents propulsés par des Large Language Models (LLM) pouvaient reproduire certains comportements observés chez les humains dans des situations stratégiques issues de la théorie des jeux.
 
 Dans ce cadre, j’ai conçu en Python l’environnement expérimental ainsi que différents types de joueurs, avec ou sans connexion à des LLM exécutés sur une machine en distance via Ollama, avec accès SSH. J’ai également développé le banc d’essai permettant d’automatiser les interactions entre les agents, de faire varier les scénarios et les modèles étudiés, puis de collecter les résultats de manière reproductible.
 
