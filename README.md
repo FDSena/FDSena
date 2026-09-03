@@ -12,7 +12,7 @@ J’ai eu ma première expérience professionnelle dans le domaine de la recherc
 
 Le projet portait sur les agents autonomes et les systèmes multi-agents génératifs. La problématique principale était d’étudier si des agents propulsés par des Large Language Models (LLM) pouvaient reproduire certains comportements observés chez les humains dans des situations stratégiques issues de la théorie des jeux.
 
-Dans ce cadre, j’ai conçu en Python l’environnement expérimental ainsi que différents types de joueurs, avec ou sans connexion à des LLM exécutés sur une machine en distance via Ollama, avec accès SSH. J’ai également développé le banc d’essai permettant d’automatiser les interactions entre les agents, de faire varier les scénarios et les modèles étudiés, puis de collecter les résultats de manière reproductible.
+Dans ce cadre, j’ai conçu en Python l’environnement expérimental ainsi que différents types de joueurs, avec ou sans connexion à des LLM exécutés sur une machine distante via Ollama, avec accès SSH. J’ai également développé le banc d’essai permettant d’automatiser les interactions entre les agents, de faire varier les scénarios et les modèles étudiés, puis de collecter les résultats de manière reproductible.
 
 La campagne expérimentale a représenté près de 38 800 simulations pour chacun des scénarios étudiés. Les données obtenues ont ensuite été analysées dans des notebooks Python à l’aide de méthodes statistiques, avec notamment la formulation d’hypothèses, la réalisation de tests statistiques et l’analyse des p-values afin de comparer les comportements observés.
 
