@@ -4,7 +4,7 @@
 
 Je suis actuellement en 5e année à **Polytech Lyon**, où je travaille autour de la modélisation mathématique, des statistiques, du Machine Learning et de l'intelligence artificielle.
 
-Mon parcours a d’abord débuté par une formation scientifique orientée PCSI, avant de me conduire vers l’ingénierie mécanique. Cette première formation m’a permis d’acquérir de solides bases scientifiques et m’a progressivement amené à m’intéresser davantage à l’analyse de données, la modélisation et l’apprentissage automatique.
+Mon parcours a commencé par une formation scientifique, puis par une spécialisation en ingénierie mécanique. Au fil des projets, je me suis découvert un intérêt croissant pour la modélisation, l’analyse de données et les méthodes mathématiques, ce qui m’a naturellement conduit à me spécialiser aujourd’hui en Mathématiques Appliquées et Modélisation à Polytech Lyon, avec une orientation vers la Data Science et le Machine Learning.
 
 ## Expérience en recherche
 
